@@ -1,0 +1,3 @@
+yes overload operators will work. Because a class template is a simply a class only modified 
+as generic that can handle different data. Anything manipulation that can be done in a class
+is same can be done in class template.
